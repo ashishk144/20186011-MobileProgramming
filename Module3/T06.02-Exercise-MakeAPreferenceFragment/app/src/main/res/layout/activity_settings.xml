@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:app="http://schemas.android.com/apk/res/android"
+    app:name="android.example.com.visualizerpreferences.SettingsFragment"
+    app:id="@+id/activity_settings"
+    app:layout_width="match_parent"
+    app:layout_height="match_parent" />
