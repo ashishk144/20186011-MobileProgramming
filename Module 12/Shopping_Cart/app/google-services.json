@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "58694179240",
+    "firebase_url": "https://msitec-acafc.firebaseio.com",
+    "project_id": "msitec-acafc",
+    "storage_bucket": "msitec-acafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58694179240:android:553d89752b89d373",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58694179240-ns3qhpju3vg9nek45gusgct2d8g79ndi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHmFndbc5Buic32Lx-5TKGhLCeYcubRWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

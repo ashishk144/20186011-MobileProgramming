@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "525002189923",
+    "firebase_url": "https://complaintbox-16bbd.firebaseio.com",
+    "project_id": "complaintbox-16bbd",
+    "storage_bucket": "complaintbox-16bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525002189923:android:5adf1038efd6849a",
+        "android_client_info": {
+          "package_name": "com.example.grievanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525002189923-6ur94von5ec7be8ocqolp7a7vbpkvp43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEsp7OSWduKwtuhS5fGYqrBK4jbX1vsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
